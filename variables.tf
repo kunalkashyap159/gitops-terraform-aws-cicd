@@ -23,7 +23,7 @@ variable "aws_availability_zone" {
 }
 variable "artifacts_bucket_name" {
   description = "AWS bucket for artifacts."
-  default     = "sandip-gitops-terraform-artifacts"
+  default     = "kunal-gitops-terraform-artifacts"
 }
 
 
@@ -39,12 +39,12 @@ variable "tf_version" {
 
 variable "infra_project_repository_branch" {
   description = "repo target branch"
-  default     = "master"
+  default     = "main"
 }
 
 variable "infra_project_repository_name" {
   description = "target repo"
-  default     = "gitops_terraform"
+  default     = "gitops-terraform-aws-cicd"
 }
 
 
