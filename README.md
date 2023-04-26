@@ -1,4 +1,3 @@
-# Learn With Sandip
 ## What is GitOps, Practical GitOps CI/CD With Terraform and AWS
 
 [![N|Solid](https://learn.sandipdas.in/wp-content/uploads/sites/2/2021/08/Untitled-design-2.png)](https://learn.sandipdas.in/)
